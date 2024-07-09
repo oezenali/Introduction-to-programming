@@ -1,0 +1,24 @@
+1. Write a program that prints the first letters of your name and surname using the asterisk character in separate lines.
+2. Write a calculator program:
+   a. It should have a menu (Addition, Subtraction, Multiplication, Division, Modulo, Exponentiation, Square Root).
+   b. Use switch-case statements.
+   c. Continuously perform calculations until the user says no.
+   d. Ensure that the user does not make incorrect inputs.
+3. Write a program to calculate the integral of the function y = x^2 + 2x + 5 from 0 to 4.
+4. Write a program that finds the largest of 10 randomly generated numbers between 0 and 2000.
+5. Write a program that reverses a string entered from the keyboard (e.g., "Ali" -> "ilA").
+6. Develop a program that modifies each character of a string entered from the keyboard:
+   a. Convert all characters to uppercase.
+   b. Convert all characters to lowercase.
+   c. Toggle case (uppercase to lowercase and vice versa, e.g., "Ali" -> "aLI").
+   d. Capitalize the first letter of each word.
+   i. Ensure space character handling.
+   ii. Create a menu for selection.
+   iii. Define separate functions for each conversion operation.
+7. Write a program that determines whether a randomly generated number is prime until the user presses punctuation keys.
+8. Write a function to calculate the length of a string entered by the user without using built-in functions.
+9. Generate 20 random words starting with 'A' and no longer than 10 characters in length.
+   a. Words do not need to have meaningful definitions.
+   b. You can use functions like rand, append, insert, etc.
+10. Create 3-letter words from ASCII characters that correspond to prime number values.
+   

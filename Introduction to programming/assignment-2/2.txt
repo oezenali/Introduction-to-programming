@@ -1,0 +1,19 @@
+1--For an N-dimensional array, perform the following operations:
+- The value of N dimensions must be entered by the user (Max: 100).
+- Array elements should consist of randomly generated numerical values.
+- Print the values as shown in the sample output.
+- Print "-->" next to one of the array elements.
+- The "-->" indicator should initially point to the first element when the program starts.
+- The program should prompt the user to enter a character:
+  - If 'A' or 'a' is entered, move the "-->" indicator to the next character in the array, wrapping around to the first character if at the last element.
+  - If 'D' or 'd' is entered, move the "-->" indicator to the previous character in the array, wrapping around to the last character if at the first element.
+  - If 'C' or 'c' is entered, the program should terminate.
+
+2--For an NxN array:
+- Allow the user to enter the dimension N for an NxN array with random numerical values.
+- Prompt the user to enter two numbers for comparison with the array elements: the first number as the lower limit and the second number as the upper limit. See the sample output for details.
+- Print the initial values of the array.
+- For each element in the NxN array:
+  - Use "*" if the element is below the lower limit.
+  - Use "-" if the element is above the upper limit.
+  - Use "~" if the element is within the specified limits to encrypt the NxN array.
